@@ -1,3 +1,5 @@
-public class Hamster {
-    String name = "Байт";
+public class Praktikum {
+    public static void main(String[] args) {
+        System.out.println("Hello, world")
+    }
 }
